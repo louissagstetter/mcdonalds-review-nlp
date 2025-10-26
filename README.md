@@ -204,7 +204,24 @@ Thema 3: order, service, food, drive, minute, customer, get, time, bad, slow
 
 ## 📚 Quellen  
 	•	Datensatz: McDonald’s Store Reviews (Kaggle)  
-	•	Bibliotheken: NLTK, gensim, scikit-learn  
+	•	Bibliotheken:  
+		Basis-Tools:
+			• pandas 2.2.2
+			• numpy 1.26.4
+			• matplotlib 3.9.2
+			• seaborn 0.13.2
+		NLP-Tools:
+			• nltk 3.9.1
+			• spacy 3.7.4
+			• textblob 0.18.0.post0
+			• gensim 4.3.3
+			• scikit-learn 1.5.1
+		Visualisierung & Topic Modeling:
+			• wordcloud 1.9.3
+			• pyLDAvis 3.4.1
+		Sonstiges:
+			• tqdm 4.66.4
+			• jupyterlab 4.0.0   
 	•	Lehrmaterial: IU Modul „Projekt: Data Analysis“  
   
 ## 👤 Autor  
