@@ -149,8 +149,11 @@ Die virtuelle Umgebung muss lokal erstellt werden; sie ist nicht im Repository e
 #### 3.	Abhängigkeiten installieren:  
 	pip install -r requirements.txt
 
-#### 4.	Notebook starten:  
-	jupyter notebook
+#### 4.	Notebook öffnen:  
+	jupyter notebook ./notebooks/analysis.ipynb
+	
+#### 5.	Notebook starten und Ergebnisse sehen:  
+	Shift + Enter
 
 ### Nutzung  
 	1.  Die Rohdaten in ./data/mcd_reviews.csv ablegen  
