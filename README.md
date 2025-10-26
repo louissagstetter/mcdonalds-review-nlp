@@ -152,11 +152,11 @@ Die virtuelle Umgebung muss lokal erstellt werden; sie ist nicht im Repository e
 #### 4.	Notebook öffnen:  
 	jupyter notebook ./notebooks/analysis.ipynb
 	
-#### 5.	Notebook starten und Ergebnisse sehen:  
+#### 5.	Notebook im Browser öffnen und mit dieser Tastenkombination den Code starten:  
 	Shift + Enter
 
 ### Nutzung  
-	1.  Die Rohdaten in ./data/mcd_reviews.csv ablegen  
+	1.  Die Rohdaten sind schon in ./data/mcd_reviews.csv abgelegt  
 	2.	Notebook starten: ./notebooks/mcd_reviews_analysis.ipynb  
 	3.	Alle Zeilen nacheinander ausführen  
 	4.	Ergebnisse & Visualisierungen befinden sich im ./outputs/ Ordner  
