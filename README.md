@@ -135,27 +135,28 @@ Dieses Projekt zeigt, wie NLP-Methoden helfen können, große Mengen unstrukturi
 	•	Alle benötigten Bibliotheken in requirements.txt gelistet  
 
 
-### Installation  
-1.	Repository klonen:  
-git clone <REPO_URL>  
-cd <REPO_NAME>  
+### Installation 
+Die virtuelle Umgebung muss lokal erstellt werden; sie ist nicht im Repository enthalten. 
+#### 1.	Repository klonen:  
+	git clone [https://github.com/louissagstetter/mcdonalds-nlp-analysis.git](https://github.com/louissagstetter/mcdonalds-nlp-analysis.git)  
+	cd mcdonalds-nlp-analysis 
 
-2.	Virtuelle Umgebung erstellen:  
-python3 -m venv venv  
-source venv/bin/activate      # macOS/Linux  
-venv\Scripts\activate         # Windows  
+#### 2.	Virtuelle Umgebung erstellen:  
+	python3 -m venv venv  
+	source venv/bin/activate      # macOS/Linux  
+	venv\Scripts\activate         # Windows  
 
-3.	Abhängigkeiten installieren:  
-pip install -r requirements.txt  
+#### 3.	Abhängigkeiten installieren:  
+	pip install -r requirements.txt  
 
-4.	Notebook starten:  
-jupyter notebook  
+#### 4.	Notebook starten:  
+	jupyter notebook  
 
 ### Nutzung  
-	1.	Die Rohdaten in ../data/mcd_reviews.csv ablegen  
-	2.	Notebook starten: mcd_reviews_analysis.ipynb  
+	1.  Die Rohdaten in ./data/mcd_reviews.csv ablegen  
+	2.	Notebook starten: ./notebooks/mcd_reviews_analysis.ipynb  
 	3.	Alle Zeilen nacheinander ausführen  
-	4.	Ergebnisse & Visualisierungen befinden sich im outputs/ Ordner  
+	4.	Ergebnisse & Visualisierungen befinden sich im ./outputs/ Ordner  
 
 
 ### Beispielausgaben  
