@@ -138,8 +138,8 @@ Dieses Projekt zeigt, wie NLP-Methoden helfen können, große Mengen unstrukturi
 ### Installation 
 Die virtuelle Umgebung muss lokal erstellt werden; sie ist nicht im Repository enthalten. 
 #### 1.	Repository klonen:  
-	git clone https://github.com/louissagstetter/mcdonalds-nlp-analysis.git
-	cd mcdonalds-nlp-analysis
+	git clone https://github.com/louissagstetter/mcdonalds-review-nlp.git
+	cd mcdonalds-review-nlp
 
 #### 2.	Virtuelle Umgebung erstellen:  
 	python3 -m venv venv
