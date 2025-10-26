@@ -222,7 +222,6 @@ Thema 3: order, service, food, drive, minute, customer, get, time, bad, slow
 		Sonstiges:
 			• tqdm 4.66.4
 			• jupyterlab 4.0.0   
-	•	Lehrmaterial: IU Modul „Projekt: Data Analysis“  
   
 ## 👤 Autor  
 Louis Sagstetter  
